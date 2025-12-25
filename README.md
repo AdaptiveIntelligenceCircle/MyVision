@@ -39,8 +39,9 @@ If you read this letter many years from now, Adaptive AI OS may be different, or
 Build technology as if it were a promise to humanity.
 
 Put people and ethics at the heart of every line of code.
-
 And never forget: systems can defend themselves, but only people can uphold the ideal.
+
+<img width="1366" height="2049" alt="image" src="https://github.com/user-attachments/assets/a1bef3e4-e3a5-412f-b407-aab5b8b94f32" />
 
 Sincerely,
 An engineer sowing the seeds of the future
