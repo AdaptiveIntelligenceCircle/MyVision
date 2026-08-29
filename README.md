@@ -18,8 +18,10 @@ The problem is trust. We already know how to scale computation. We know how to t
 - Human meaning
 - Ethical responsibility
 - Long-term governance
- 
+
+
 at the same scale.
+
  
 The challenge of the 21st century is not building smarter systems. The challenge is building systems worthy of trust.
  
@@ -34,8 +36,8 @@ Most projects try to build:
 - Agents
 - Platforms
  
+
 We are interested in something deeper.
- 
 We want to explore:
  
 - Ethics from Kernel
@@ -45,7 +47,8 @@ We want to explore:
 - Fork Compliance Infrastructure
 - Reputation Systems
 - Civilizational Resilience
- 
+
+
 Our goal is not simply to create better software. Our goal is to create foundations for responsible technological civilizations.
  
 ---
@@ -60,7 +63,8 @@ In the coming decades:
 - Robotics will evolve.
 - Space infrastructure will evolve.
 - Human institutions will evolve.
- 
+
+
 Technology must be designed for that future.
  
 ---
@@ -68,19 +72,15 @@ Technology must be designed for that future.
 ## Our Principles
  
 ### Human before Technology
- 
 + Technology exists to serve humanity.Not the other way around.
  
 ### Transparency before Convenience
- 
 + Opaque systems create fragile societies. Transparent systems create trust.
  
 ### Responsibility before Scale
- 
 + Growth without responsibility is merely acceleration.
  
 ### Meaning before Metrics
- 
 + A civilization cannot be measured only through productivity. People need meaning.
  
 ---
@@ -96,7 +96,8 @@ Adaptive Intelligence Circle (AIC) explores a different path.
 + Not Token-Driven Speculation.
  
 -> A Third Path.
- 
+
+
 An independent, transparent, governance-first ecosystem designed to keep technology aligned with human values.
  
 ---
@@ -104,6 +105,7 @@ An independent, transparent, governance-first ecosystem designed to keep technol
 ## To Future Engineers
  
 You may read this years from now. Perhaps the names will change. Perhaps the technology will change.
+
  
 Perhaps AIC itself will evolve into something entirely different.That is fine. Only one thing matters:
  
