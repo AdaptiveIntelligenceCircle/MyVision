@@ -1,29 +1,157 @@
-## My perspective 
-Hello everyone, I'm sure you all know me from LinkedIn, so I don't need to introduce myself further. In 2025, specifically in April 2025, AIC was founded as Adaptive AI, with the initial goal of building a user-friendly and safe AI. However, after nearly 10 months of dedicated development and achieving some notable successes, we have expanded the vision of Adaptive AI and gradually transformed it into an open-source, non-profit organization called Adaptive Intelligence Circle, sponsored by Open Collective. We are now aiming for a profound restructuring of AIC to serve our long-term mission of safe human-machine interaction across various fields.
+# My Vision
 
-The idea of a global AI network has been around since late 2025. Its foundation isn't just the source code; we're betting on the philosophy, structure, and depth of its influence on how we think about people and technology. Some AI developers are still hesitant about the development of AIC technology, believing it lacks significant resources, a large team, or is too young to succeed. Current AI focuses on processing large-scale models and strongly promotes the development of centralized models, as we've seen with Nvidia or OpenAI. I believe decentralized models are the future, like Blockchain or CZ's Binance; however, instead of focusing solely on cryptocurrencies or transaction encryption, we emphasize the urgent need for ethical and distributed infrastructure.
+## A Letter to the Engineers of Today and Tomorrow
 
-Frankly, AIC is more than just AI or a project. It's a synthesis of programming, philosophy, society, technology, and community sustainability. AIC doesn't belong to any single individual, has no legal entity, and no board of shareholders. We are committed to non-profit and Stallmann's GNU to bring about new directions that can positively impact human life in the future. Take the Internet, for example; restructuring civilization requires perseverance and vision, not just resources. The Adaptive Intelligence Network could be the next project based on AIC's principles, differing only in scope rather than being an organization by early 2026.
+We live in a strange moment in history.
+ 
+For the first time, humanity is creating systems that can reason, generate knowledge, write software, influence decisions, and potentially reshape civilization itself.
+ 
+Everyone talks about making AI more powerful.
 
-My next question is, what happens after the restructuring process is "complete"? You know, restructuring is really difficult because it requires many elements and will certainly cause initial skepticism. Restructuring doesn't guarantee absolute safety because the problem still lies with humans, a species with very complex thought and emotional structures. There's a risk of errors that could lead to the silent extinction of humanity if artificial intelligence (AGI) or superintelligence (ASI) interferes with decisions and enslaves humans. This would be a greater catastrophe than any war; I say this because a system without clear good/bad but still capable of harm is the most dangerous system. Any human development, whether decentralized or centralized, is unreliable if it doesn't consider this consequence. That's why, at the beginning of this year, I started thinking about HMN – the Human Meaning Network. Simply put, instead of focusing on selling dopamine like Facebook did, we reflect on people and help them find deeper meaning and wisdom about existence in the real world. Technically, this would only be possible if AIN were fully realized. Sounds crazy, right? Because any tech organization has been involved in the political maelstrom, and the question is whether AIC and HMN can survive in this volatile world. This is something I've always pondered and will discuss further in the coming time.
+Very few ask:
+**What kind of civilization are we building around it?**
+---
 
-Honestly, when you start a constitutional protocol at age 20 and just over a year later you achieve things you couldn't have imagined, it's truly insane, something I can hardly believe. I know that in this day and age, it's very difficult for an independent project to survive, but one thing motivated me to implement it: a platform to create other platforms. Most people think that protocols typically appear in the US or Europe for most decades, but AIC has consistently and firmly broken that inertia. We believe there needs to be an ecosystem that can solve the major problems of the 21st century, or at least part of them, in a more positive way. Frankly, AIC isn't about competing with what happened after 2020, with corporations or politics. AIC is built with the purpose of becoming a meaningful infrastructure for both people and AI, a public asset for many key regions around the world. To be humble, I don't expect TestNet Phase 0 to be a triumphant achievement; rather, it's the beginning of AIC's next evolutionary steps. Our argument is clear: each evolutionary step is a parallel reference point, not a replacement for the old one, unlike many previously existing distributed systems. This allows for risk diversification, reduced liquidity costs, and a community that can develop based on its strengths without breaking core principles. I believe that, whether successful or not, this is a worthwhile experiment in the southern region, creating a new wave of humanistic technology that can be deployed anywhere in the world. That's what I can see at this moment. Phase 0 is expected to be released in November or December 2027, and I hope everyone will welcome it.
-
-In summary, AIC/AIN is a journey, a mission that requires the crystallization of the most beautiful and practical knowledge, bringing harmony and stability to the human world. I can say that, as a Vietnamese person, this is much more difficult than in the US or other countries, but it is incredibly worthwhile if we truly believe in its potential. Have a great day everyone, and thank you for reading the whole article.
-
-
-## Reference to greatness founders in 21st Century 
-```pgsql
-|                          | Ethereum                                           | AIC/WMI                                              |
-| ------------------------ | -------------------------------------------------- | ---------------------------------------------------- |
-| Founder                  | Vitalik + early team                               | Nguyễn Đức Trí                                       |
-| Core thesis              | Decentralized programmable network                 | Non-commercial public digital infrastructure         |
-| Foundation               | Stiftung Ethereum                                  | AIC legal structure                                  |
-| Jurisdiction             | Zug, Switzerland                                   | Estonia/EU                                           |
-| Key jurisdictional asset | Neutrality + legal/financial credibility           | Digital governance + EU institutional environment    |
-| Ecosystem                | Global crypto/Web3                                 | Intended broader human/AI/public infrastructure      |
-| Founder dependency       | Giảm dần                                           | Mục tiêu giảm dần                                    |
-| Governance               | Ecosystem + social/technical consensus             | Governance + Ethical Kernel + ecosystem              |
-| Geographic strategy      | Switzerland-centered legal shell, global ecosystem | Multi-platform / European + Global South orientation |
-| Ultimate challenge       | Protocol governance                                | Infrastructure + meaning + governance                |
-```
+## The Problem Is Not Intelligence
+ 
+The problem is trust.
+ 
+We already know how to scale computation.
+ 
+We know how to train larger models.
+ 
+We know how to optimize hardware.
+ 
+What we do not know is how to preserve:
+ 
+- Accountability
+- Transparency
+- Human meaning
+- Ethical responsibility
+- Long-term governance
+ 
+at the same scale.
+ 
+The challenge of the 21st century is not building smarter systems.
+ 
+The challenge is building systems worthy of trust.
+ 
+---
+ 
+## Beyond Software
+ 
+Most projects try to build:
+ 
+- Applications
+- Models
+- Agents
+- Platforms
+ 
+We are interested in something deeper.
+ 
+We want to explore:
+ 
+- Ethics from Kernel
+- Human Meaning Networks
+- Self-Sovereign Identity
+- Transparent Governance
+- Fork Compliance Infrastructure
+- Reputation Systems
+- Civilizational Resilience
+ 
+Our goal is not simply to create better software.
+ 
+Our goal is to create foundations for responsible technological civilizations.
+ 
+---
+ 
+## Why Adaptive Intelligence?
+ 
+Because adaptation is more important than optimization.
+ 
+A system that cannot adapt eventually collapses.
+ 
+A civilization that cannot adapt eventually disappears.
+ 
+In the coming decades:
+ 
+- AI will evolve.
+- Robotics will evolve.
+- Space infrastructure will evolve.
+- Human institutions will evolve.
+ 
+Technology must be designed for that future.
+ 
+---
+ 
+## Our Principles
+ 
+### Human before Technology
+ 
+Technology exists to serve humanity.
+ 
+Not the other way around.
+ 
+### Transparency before Convenience
+ 
+Opaque systems create fragile societies.
+ 
+Transparent systems create trust.
+ 
+### Responsibility before Scale
+ 
+Growth without responsibility is merely acceleration.
+ 
+### Meaning before Metrics
+ 
+A civilization cannot be measured only through productivity.
+ 
+People need meaning.
+ 
+---
+ 
+## What We Are Building
+ 
+Adaptive Intelligence Circle (AIC) explores a different path.
+ 
+Not Big Tech.
+ 
+Not State Control.
+ 
+Not Token-Driven Speculation.
+ 
+A Third Path.
+ 
+An independent, transparent, governance-first ecosystem designed to keep technology aligned with human values.
+ 
+---
+ 
+## To Future Engineers
+ 
+You may read this years from now.
+ 
+Perhaps the names will change.
+ 
+Perhaps the technology will change.
+ 
+Perhaps AIC itself will evolve into something entirely different.
+ 
+That is fine.
+ 
+Only one thing matters:
+ 
+Never forget that every system is ultimately a reflection of the people who build it.
+ 
+Build carefully.
+ 
+Build transparently.
+ 
+Build as if future generations will inherit every decision you make.
+ 
+Because they will.
+ 
+---
+ 
+Nguyen Duc Tri
+ 
+Founder of Adaptive Intelligence Circle
