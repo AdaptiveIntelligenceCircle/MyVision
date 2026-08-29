@@ -1,4 +1,8 @@
-## Reference to greatness founders in 21st Century 
+# Ethereum and AIC — same family, different material
+
+Both are attempts at **non-sovereign coordination infrastructure**.  
+They are not the same product and not the same era.
+
 ```pgsql
 |                          | Ethereum                                           | AIC/WMI                                              |
 | ------------------------ | -------------------------------------------------- | ---------------------------------------------------- |
@@ -13,3 +17,5 @@
 | Geographic strategy      | Switzerland-centered legal shell, global ecosystem | Multi-platform / European + Global South orientation |
 | Ultimate challenge       | Protocol governance                                | Infrastructure + meaning + governance                |
 ```
+
+**Respect without cosplay:** learn from ETH’s survival and mistakes; do not paste ICO-era tactics onto a meaning kernel.
